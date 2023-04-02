@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# random stuff 
+resources/
+
+# shapefiles etc
+Data/geobase_nrwn_rfn

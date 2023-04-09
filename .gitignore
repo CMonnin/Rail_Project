@@ -130,6 +130,10 @@ dmypy.json
 
 # random stuff 
 resources/
+qgis/
+database/
 
 # shapefiles etc
 Data/geobase_nrwn_rfn
+TC_Data/
+

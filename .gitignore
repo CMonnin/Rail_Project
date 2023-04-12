@@ -132,8 +132,10 @@ dmypy.json
 resources/
 qgis/
 database/
+Dash_test/
 
 # shapefiles etc
 Data/geobase_nrwn_rfn
-TC_Data/
 
+# all the initial data used for the project
+TC_Data/
